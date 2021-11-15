@@ -1,6 +1,6 @@
-# Quantum Computing Documentation Developed For HARPE Engineering
+# Quantum Computing Documentation
 
-This repository contains the theoretical and practical quantum information/quantum computing documentations put together for HARPE Engineering. The theoretical and practical documentations each contain instructions on how to use them in their respective folders as README.md files.
+This repository contains the theoretical and practical quantum information/quantum computing documentations. The theoretical and practical documentations each contain instructions on how to use them in their respective folders as README.md files.
 
 ### How To Get The Best Out Of This?
 
