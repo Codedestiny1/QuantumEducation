@@ -1,4 +1,4 @@
-# Quantum Hardware Documentation Developed By HARPE Engineering
+# Quantum Hardware Documentation
 
 This repository contains the theoretical and practical quantum hardware documentations put together by HARPE Engineering. Several tutorials about transmon design and analysis using the Qiskit Metal software are appended at the end of the document. The tutorials are also available in the repository under **INSERT LOCAL LINK HERE** as well. 
 
@@ -10,13 +10,3 @@ This repository contains the theoretical and practical quantum hardware document
 
 
 Note that some of the tutorials need ANSYS HFSS for the analysis of designs made in Qiskit Metal and the ANSYS student version does not contain the HFSS module. The outputs of code cells in the tutorial notebooks are available in the document for the users to follow without a working installation of ANSYS HFSS.
-
-# TODO:
-
-- [ ] Implement all of the notebooks without combining them under the "Analysis" section.
-- [ ] Merge the two notebooks named "4.05 New LOM and Two Coupled Transmon Example with sequence".
-- [ ] Implement the first three notebooks under the Analysis/Core section separately.
-- [ ] Implement the "tune a transmon" and "tune a resonator" notebooks as separate tutorials.
-- [ ] Polish the document with additional resources. 
-- [ ] Include a "References" section at the end of the document.
-- [ ] Clean up the rpeository and prepare it for launch.
