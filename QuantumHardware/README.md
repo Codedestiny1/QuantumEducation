@@ -1,6 +1,6 @@
 # Quantum Hardware Documentation
 
-This repository contains the theoretical and practical quantum hardware documentations put together by HARPE Engineering. Several tutorials about transmon design and analysis using the Qiskit Metal software are appended at the end of the document. The tutorials are also available in the repository under **INSERT LOCAL LINK HERE** as well. 
+This repository contains the theoretical and practical quantum hardware documentations put together by HARPE Engineering. Several tutorials about transmon design and analysis using the Qiskit Metal software are appended at the end of the document.
 
 
 ### Preliminaries
